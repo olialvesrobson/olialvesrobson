@@ -1,6 +1,6 @@
 ### Hey there, Robson here...
 
-<img src="https://github.com/olialvesrobson/olialvesrobson/blob/main/IMG_6999.PNG?raw=true" width="100%" height="auto" />
+<img src="./IMG_6999.PNG?raw=true" width="100%" height="auto" />
 
 
 ## Find me on:
@@ -23,10 +23,25 @@
 
 ## About me:
 
-•	Experience: Results-oriented and quick thinker, I have a solid background in IT systems across automation in a variety of programming languages such as VBA, C#, Python, data analyst using tools such as Alteryx and Tableau, process improvement, this focusing on reducing human efforts and efficiency of resources while improving a culture for sustainable technical planning keeping abreast of the latest technologies and trends.
 
-•	Skills: MS Access (VBA, Forms, Queries, and Reports), MS Excel (Macros, Functions, Pivot Tables, and Charts), MS PowerPoint, SharePoint, MS SQL Server, Tableau Desktop, Alteryx, SAP Business Object, Python (Data Analytics and TkInter), Agile, basic understand of accounting, and excellent productive working relationship with team mates, partners, and clients.  
+ <p>•	Experience: Results-oriented and quick thinker, I have a solid background in IT systems across automation in a variety of programming languages such as VBA, C#, Python, data analyst using tools such as Alteryx and Tableau, process improvement, this focusing on reducing human efforts and efficiency of resources while improving a culture for sustainable technical planning keeping abreast of the latest technologies and trends.
+ </p>
 
+
+ <p>
+ •	Skills: MS Access (VBA, Forms, Queries, and Reports), MS Excel (Macros, Functions, Pivot Tables, and Charts), MS PowerPoint, SharePoint, MS SQL Server, Tableau Desktop, Alteryx, SAP Business Object, Python (Data Analytics and TkInter), Agile, basic understand of accounting, and excellent productive working relationship with team mates, partners, and clients.   
+ </p>
+
+### I'm currently working on:
+ <b><> Dude App </></b> <br/>
+  A web-application developed with ReactJS, Firebase (Firestore, Auth, Storage), Material-UI, Ionicons, amoung others features for schedules, track jobs, and clients management for a gardening / landscaping business.
+  
+ <br/><br/>
+ <b><> One3th </></b> <br/>
+  A personal project for personal teachers and students in order to organize classes date/time. It is being developed with ReactJS, Firebase (Firestore, Auth, Storage), Material-UI, Ionicons.
+ <br/><br/>
+ <b><> Travellers </></b> <br/>
+  Social media Mobile app for travelers lover. I am designing and creating the concept but it is going to have similiar features and functionalities of Instagram. I started this project after learning how to build a Instagram Clone. 
 
 <!--
 **olialvesrobson/olialvesrobson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

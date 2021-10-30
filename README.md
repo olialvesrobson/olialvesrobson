@@ -1,9 +1,9 @@
-### Hey fellow 👋
+### Hey there, Robson here...
 
-
+<img src="https://image.freepik.com/free-vector/red-halftone-pattern-dark-background_1017-33289.jpg" width="100%" height="250" />
 •	Experience: Results-oriented and quick thinker, I have a solid background in IT systems across automation in a variety of programming languages such as VBA, C#, Python, data analyst using tools such as Alteryx and Tableau, process improvement, this focusing on reducing human efforts and efficiency of resources while improving a culture for sustainable technical planning keeping abreast of the latest technologies and trends.
+
 •	Skills: MS Access (VBA, Forms, Queries, and Reports), MS Excel (Macros, Functions, Pivot Tables, and Charts), MS PowerPoint, SharePoint, MS SQL Server, Tableau Desktop, Alteryx, SAP Business Object, Python (Data Analytics and TkInter), Agile, basic understand of accounting, and excellent productive working relationship with team mates, partners, and clients.  
-###•	Performance:### I gain 3 awards in the last 4 years working in the Itaú Unibanco S.A related to reached goals performance in 2017 among the top 10% analysts out of 1000 employees and relationship with partners and clients in 2016 and 2014 among the top 15% analysts out of nearly 1000 employees.  
 
 
 <!--

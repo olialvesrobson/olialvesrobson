@@ -1,6 +1,6 @@
 ### Hey there, Robson here...
 
-<img src="https://image.freepik.com/free-vector/red-halftone-pattern-dark-background_1017-33289.jpg" width="100%" height="250" />
+<img src="https://github.com/olialvesrobson/olialvesrobson/blob/main/IMG_6999.PNG?raw=true" width="100%" height="auto" />
 
 
 ## Find me on:
